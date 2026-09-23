@@ -28,8 +28,8 @@ const phat = {
 
 ### What I've built
 
-- 📡 **TR-069 device management platform**: manages and controls **400,000+ network devices** for a major cable TV & Internet provider (PHP/Phalcon, MongoDB, RabbitMQ, GenieACS).
-- 🗂️ **File storage & identity platform**: NestJS + Next.js, SpiceDB, Keycloak, MinIO, Kafka; serves **10,000+ students and lecturers**.
+- 📡 **TR-069 device management platform**: manages and controls **250,000+ network devices** for a major cable TV & Internet provider (PHP/Phalcon, MongoDB, RabbitMQ, GenieACS).
+- 🗂️ **File storage & identity platform**: NestJS + Next.js, SpiceDB, Keycloak, MinIO, Kafka; serves **5,000+ students and lecturers**.
 - 🏛️ **Digital transformation suite for a ward-level government agency**: IAM with Keycloak sync, paperless meetings with real-time voting.
 - 🔐 **Face ID access control & attendance**, WiFi controller, IoT data pipelines (water meters, Modbus).
 

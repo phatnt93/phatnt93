@@ -2,6 +2,9 @@
 
 <p><em>Tech Lead & Full-stack Developer at HONEYNET · Ho Chi Minh City, Vietnam</em></p>
 
+<p>🖥️ <b>Interactive CV:</b> <a href="https://phatnt93.github.io">phatnt93.github.io</a>. Scroll through it like a terminal session.</p>
+
+[![Website](https://img.shields.io/badge/-phatnt93.github.io-0B0F14?style=flat-square&logo=githubpages&logoColor=4ADE80)](https://phatnt93.github.io)
 [![Email](https://img.shields.io/badge/-thanhphat.uit@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thanhphat.uit@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/phatnt93?label=follow&style=social)](https://github.com/phatnt93)
 

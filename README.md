@@ -5,6 +5,7 @@
 <p>🖥️ <b>Interactive CV:</b> <a href="https://phatnt93.github.io">phatnt93.github.io</a>. Scroll through it like a terminal session.</p>
 
 [![Website](https://img.shields.io/badge/-phatnt93.github.io-4ADE80?style=flat-square&logo=githubpages&logoColor=0B0F14)](https://phatnt93.github.io)
+[![LinkedIn](https://img.shields.io/badge/-phatnt93-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phatnt93)
 [![Email](https://img.shields.io/badge/-thanhphat.uit@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thanhphat.uit@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/phatnt93?label=follow&style=social)](https://github.com/phatnt93)
 
